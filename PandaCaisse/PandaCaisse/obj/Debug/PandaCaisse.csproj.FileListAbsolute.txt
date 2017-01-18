@@ -1,0 +1,9 @@
+C:\Users\Gab\Documents\GitHub\CaissePanda\PandaCaisse\PandaCaisse\bin\Debug\PandaCaisse.exe.config
+C:\Users\Gab\Documents\GitHub\CaissePanda\PandaCaisse\PandaCaisse\bin\Debug\PandaCaisse.exe
+C:\Users\Gab\Documents\GitHub\CaissePanda\PandaCaisse\PandaCaisse\bin\Debug\PandaCaisse.pdb
+C:\Users\Gab\Documents\GitHub\CaissePanda\PandaCaisse\PandaCaisse\obj\Debug\PandaCaisse.csprojResolveAssemblyReference.cache
+C:\Users\Gab\Documents\GitHub\CaissePanda\PandaCaisse\PandaCaisse\obj\Debug\PandaCaisse.Main.resources
+C:\Users\Gab\Documents\GitHub\CaissePanda\PandaCaisse\PandaCaisse\obj\Debug\PandaCaisse.Properties.Resources.resources
+C:\Users\Gab\Documents\GitHub\CaissePanda\PandaCaisse\PandaCaisse\obj\Debug\PandaCaisse.csproj.GenerateResource.Cache
+C:\Users\Gab\Documents\GitHub\CaissePanda\PandaCaisse\PandaCaisse\obj\Debug\PandaCaisse.exe
+C:\Users\Gab\Documents\GitHub\CaissePanda\PandaCaisse\PandaCaisse\obj\Debug\PandaCaisse.pdb
